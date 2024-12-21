@@ -62,9 +62,9 @@ function Header() {
             </div>
             <img
               alt="Media downloader illustration"
-              src="https://tailwindui.com/plus/img/component-images/dark-project-app-screenshot.png"
-              width={2432}
-              height={1442}
+              src="https://ideogram.ai/assets/image/lossless/response/Wd-aMvESSTu6x8lNRUEKKA"
+              width={1280}
+              height={800}
               className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
             />
           </div>
